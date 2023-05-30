@@ -4,6 +4,14 @@
 - 📌 Estudante de ADS e Engenharia de Software na Uniámerica (4º Período).
 - 🎓 Futuro Desenvolvedor Frontend.
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-Costa&show_icons=true&theme=react&hide=contribs,stars)](https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)
+<!-- [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-Costa&show_icons=true&theme=react&hide=contribs,stars)](https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+
+<a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Henrique-Costa&repo=Pedro-Henrique-Costa" />
+</a>
+<a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact)" />
+</a>
