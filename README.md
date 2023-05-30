@@ -5,14 +5,14 @@
 - 🎓 Futuro Desenvolvedor Frontend.
 
 
-<div>
+
   <a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-    Costa&show_icons=true&theme=react&hide=contribs,stars&line_height=30&rank_icon=github&count_private=true" />
 </a>
 <a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact&theme=react" />
 </a>
-</div>
+
 
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
