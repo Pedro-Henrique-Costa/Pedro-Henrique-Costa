@@ -11,3 +11,7 @@
 <a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact&theme=react" />
 </a>
+
+- 🌱 Atualmente estudando React e Testes.
+- 📌 Estudante de ADS e Engenharia de Software na Uniámerica (4º Período).
+- 🎓 Futuro Desenvolvedor Frontend.
