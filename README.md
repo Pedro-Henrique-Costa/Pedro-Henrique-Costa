@@ -6,4 +6,4 @@
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-Costa&show_icons=true&theme=react&hide=contribs,stars)](https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
