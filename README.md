@@ -1,4 +1,4 @@
-### Olá! seja bem vindo ao meu Github 👋
+### Olá! bem vindo ao meu Github 👋
 
 - 🌱 Atualmente estudando React e Testes.
 - 📌 Estudante de ADS e Engenharia de Software na Uniámerica (4º Período).
