@@ -13,5 +13,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-Costa&show_icons=true&theme=react&hide=contribs,stars" />
 </a>
 <a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Costa&layout=compact&theme=react" />
 </a>
