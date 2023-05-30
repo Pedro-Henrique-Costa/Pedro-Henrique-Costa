@@ -4,7 +4,7 @@
 - 📌 Estudante de ADS e Engenharia de Software na Uniámerica (4º Período).
 - 🎓 Futuro Desenvolvedor Frontend.
 
-<section>
+
 <div>
   <a href="(https://github.com/Pedro-Henrique-Costa/Pedro-Henrique-Costa)">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-    Costa&show_icons=true&theme=react&hide=contribs,stars&line_height=30&rank_icon=github&count_private=true" />
@@ -21,4 +21,4 @@
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-</section>
+
